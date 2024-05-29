@@ -5,6 +5,7 @@
 #include <thread>
 #include <mutex>
 #include <unordered_map>
+#include <bitset>
 
 
 class device_manager;
